@@ -1,0 +1,53 @@
+
+Description of the contents of the file GC-AMR_SAMRC Supplementary Information 1.xlsx
+Created by Dr Carla Louw - carlalouw@sun.ac.za
+Department of Process Engineering
+Stellenbosch University
+
+NOTE: All data collected pertains only to the town of Stellenbosch and the surrounding agricultural community. 
+_______________________________________________________________________________________________________________
+
+Pathology_AMR Counts_Resistant, Pathology_AMR Counts_Susceptible, and Pathology_AMR Counts_Intermediate
+
+	Date - daily date entries from 1 January 2018 to 31 December 2019
+	Column headers - names of pathogenic microbes followed by underscore and the antimicrobial agents 
+		against which the microbes' were tested
+	Data entries - counts of the number of pathogenic microbe samples collected from patients which 
+		were either resistant to the antimicrobial, susceptible to the antimicrobial, or showed 
+		intermediate susceptibility to the antimicrobial. 
+_______________________________________________________________________________________________________________
+
+Antibiotics_(mg)_Pharmacies	
+
+	Date - monthly date entries from January 2018 to December 2019
+	Column headers - names of antimicrobials dispensed
+	Data entries - total mass (mg) of the antimicrobial active ingredient dispensed per month by all 
+		private pharmacies combined.
+_______________________________________________________________________________________________________________
+
+Antibiotics_(mg)_Hosp_&_Clinics	
+
+	Date - monthly date entries from January 2018 to December 2019
+	Column headers - names of antimicrobials dispensed
+	Data entries - total mass (mg) of the antimicrobial active ingredient dispensed per month by the 
+		state hospital and all clinics combined.
+_______________________________________________________________________________________________________________
+
+Antibiotics_(mg)_Veterinary	
+
+	Date - monthly date entries from January 2018 to December 2019
+	Column headers - names of antimicrobials dispensed
+	Data entries - total mass (mg) of the antimicrobial active ingredient dispensed per month for 
+		agricultural use (This data does not include the prophylactic use of antimicrobials).
+_______________________________________________________________________________________________________________
+
+Veterinary_Path_Counts_Resistant
+
+	Date - monthly date entries from January 2018 to December 2019
+	Column headers - names of pathogenic microbes
+	Data entries - counts of the number of pathogenic microbe samples collected in agriculture which 
+		were resistant to at least one antimicrobial
+
+
+
+
